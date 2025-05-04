@@ -617,9 +617,6 @@ footer span{
     flex-direction: column;
 }
 
-.trainer-boxs .trainers{
-    width: 80vh;
-}
 
 .last-part {
     display: flex;
