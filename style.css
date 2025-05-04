@@ -602,4 +602,24 @@ footer span{
     font-weight:800px ;
 }
 
+.feature-boxs {
+    display: flex;
+    flex-direction: column;
+}
+
+.class-grid  {
+    display: flex;
+    flex-direction: column;
+}
+
+.trainer-boxs{
+    display: flex;
+    flex-direction: column;
+}
+
+.last-part {
+    display: flex;
+    flex-direction: column;
+}
+
 }
