@@ -621,7 +621,7 @@ footer span{
     align-items: center;
     justify-content: center;
     width: 80%;
-    margin: 10px auto;
+    margin-inline: auto ;
     
 }
 
