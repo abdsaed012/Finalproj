@@ -620,7 +620,7 @@ footer span{
     background-color: rgba(223, 219, 219, 0.9);
     align-items: center;
     justify-content: center;
-    width: 80%;
+    width: -80%;
     margin-inline: auto ;
     
 }
@@ -690,6 +690,10 @@ footer span{
 .last-part {
     display: flex;
     flex-direction: column;
+}
+
+.all-inputs {
+    width: 50%;
 }
 
 }
